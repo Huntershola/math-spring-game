@@ -4,7 +4,7 @@ This project is a simple Math Sprint Game implemented using HTML, CSS, and JavaS
 
 ## Play the Game
 
-You can play the Math Sprint Game by clicking on the following link: [Math Sprint Game](<Netlify_Link>)
+You can play the Math Sprint Game by clicking on the following link: [Math Sprint Game](https://math-spring-game.netlify.app/)
 
 ## How to Play
 
